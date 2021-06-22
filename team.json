@@ -1,0 +1,28 @@
+{
+  "team": [
+    {
+      "id": 1,
+      "name": "Mirela De Giuli",
+      "email": "mireladegiuli@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/mirela-de-giuli",
+      "github": "https://github.com/mirelagiuli",
+      "picture": "./img/mirela-profile.png"
+    },
+    {
+      "id": 2,
+      "name": "Pedro Borges",
+      "email": "pedrohenriquer77@hotmail.com",
+      "linkedin": "https://www.linkedin.com/in/pedrohrb/",
+      "github": "https://www.linkedin.com/in/pedrohrb/",
+      "picture": "./img/pedro-profile.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Rafael Rodrigues",
+      "email": "rafaelrodrigues_@outlook.com",
+      "linkedin": "https://www.linkedin.com/in/rafael-rodrigues-santos/",
+      "github": "https://github.com/rafael-rodrigues-santos",
+      "picture": "./img/rafael-profile.jpg"
+    }
+  ]
+}
