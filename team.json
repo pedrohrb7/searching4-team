@@ -3,6 +3,7 @@
     {
       "id": 1,
       "name": "Mirela De Giuli",
+      "intro": "Oie! Sou a Mirela, designer de produto e desenvolvedora front-end Jr, tenho 24 anos e moro em Bauru. Sou apaixonada por livros, café e inovação!",
       "email": "mireladegiuli@gmail.com",
       "linkedin": "https://www.linkedin.com/in/mirela-de-giuli",
       "github": "https://github.com/mirelagiuli",
@@ -11,6 +12,7 @@
     {
       "id": 2,
       "name": "Pedro Borges",
+      "intro": "Opa! Sou o Pedro, sou desenvolvedor front-end jr e acredito que é de madrugada que o café se transforma nos melhores códigos.",
       "email": "pedrohenriquer77@hotmail.com",
       "linkedin": "https://www.linkedin.com/in/pedrohrb/",
       "github": "https://www.linkedin.com/in/pedrohrb/",
@@ -19,6 +21,7 @@
     {
       "id": 3,
       "name": "Rafael Rodrigues",
+      "intro": "Oi, sou o Rafael, desenvolvedor front-end entusiasta por tecnologia e inovação. Nos tempos livres curto um bom livro e games.",
       "email": "rafaelrodrigues_@outlook.com",
       "linkedin": "https://www.linkedin.com/in/rafael-rodrigues-santos/",
       "github": "https://github.com/rafael-rodrigues-santos",
